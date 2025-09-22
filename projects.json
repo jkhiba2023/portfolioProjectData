@@ -2,15 +2,15 @@
   "projects": [
     {
       "id": 1,
-      "name": "Student Portal",
-      "description": "A responsive web app for students to view assignments, grades and announcements.",
-      "link": "https://github.com/your-username/student-portal"
+      "name": "Omnifood_clone",
+      "description": "A simple web app to track and reset scores between two players with a set winning score.",
+      "link": "https://omnifood-project-gamma.vercel.app"
     },
     {
       "id": 2,
-      "name": "Background Verification Tool",
-      "description": "A Node.js service to automate employee background verifications and report generation.",
-      "link": "https://github.com/your-username/bg-verification-tool"
+      "name": "Score-keeper",
+      "description": "A subscription-based meal delivery service offering personalized weekly meal plans, chef-prepared healthy dishes, and daily delivery — tailored to dietary preferences, fully customizable, with flexible plans.",
+      "link": "https://score-keeper-sable.vercel.app/"
     },
     {
       "id": 3,
