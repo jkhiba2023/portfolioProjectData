@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Student Portal",
+      "description": "A responsive web app for students to view assignments, grades and announcements.",
+      "link": "https://github.com/your-username/student-portal"
+    },
+    {
+      "id": 2,
+      "name": "Background Verification Tool",
+      "description": "A Node.js service to automate employee background verifications and report generation.",
+      "link": "https://github.com/your-username/bg-verification-tool"
+    },
+    {
+      "id": 3,
+      "name": "Parental Involvement Survey",
+      "description": "A Google Forms + visualization frontend that collects and displays parental involvement data.",
+      "link": "https://github.com/your-username/parental-involvement-survey"
+    },
+    {
+      "id": 4,
+      "name": "SSC Science Notes",
+      "description": "A collection of summarized notes and worksheets for SSC Class 10 Science and Technology.",
+      "link": "https://github.com/your-username/ssc-science-notes"
+    }
+  ]
+}
