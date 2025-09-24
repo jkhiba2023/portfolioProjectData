@@ -10,19 +10,13 @@
       "id": 2,
       "name": "Score-keeper",
       "description": "A subscription-based meal delivery service offering personalized weekly meal plans, chef-prepared healthy dishes, and daily delivery — tailored to dietary preferences, fully customizable, with flexible plans.",
-      "link": "https://score-keeper-sable.vercel.app/"
+      "link": "https://score-keeper-sable.vercel.app"
     },
     {
       "id": 3,
-      "name": "Parental Involvement Survey",
-      "description": "A Google Forms + visualization frontend that collects and displays parental involvement data.",
-      "link": "https://github.com/your-username/parental-involvement-survey"
-    },
-    {
-      "id": 4,
-      "name": "SSC Science Notes",
-      "description": "A collection of summarized notes and worksheets for SSC Class 10 Science and Technology.",
-      "link": "https://github.com/your-username/ssc-science-notes"
+      "name": "Todo-List",
+      "description": "A simple task management application built with React, Not used Node.js, Express, and MongoDB (MERN stack) but I have stored the data in localStorage. Users can add, edit, and delete tasks. Hosted on Vercel for easy deployment.",
+      "link": "https://todo-list-six-sandy.vercel.app"
     }
   ]
 }
