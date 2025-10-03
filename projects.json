@@ -17,6 +17,12 @@
       "name": "Todo List",
       "description": "A simple task management application built with React, Not used Node.js, Express, and MongoDB (MERN stack) but I have stored the data in localStorage. Users can add, edit, and delete tasks. Hosted on Vercel for easy deployment.",
       "link": "https://todo-list-six-sandy.vercel.app"
+    },
+    {
+      "id": 4,
+      "name": "Progressive Form",
+      "description": "It features smooth animations, responsive design, progress indicators, and form validation, providing a clean, user-friendly experience for guiding users through structured input steps.",
+      "link": "https://stepper-form-beta.vercel.app"
     }
   ]
 }
