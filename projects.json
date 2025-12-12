@@ -29,6 +29,12 @@
       "name": "Education WebSite",
       "description": "Edusity is a responsive React + Vite-powered educational platform built to deliver a seamless, modern online learning experience. Featuring intuitive navigation, smooth scroll interactions, and optimized build/deploy via Vercel, this project demonstrates full-stack front-end development from component architecture to production readiness.",
       "link": "https://edusity-dfz1.vercel.app"
+    },
+    {
+      "id":6,
+      "name": "E-commerce",
+      "description": "HKRT is a responsive React + Vite–powered online store offering quality products with a smooth and fast shopping experience.",
+      "link":"https://hkrt.vercel.app"
     }
   ]
 }
